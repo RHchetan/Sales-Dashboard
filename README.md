@@ -2,7 +2,7 @@
 
 A dynamic and visually insightful **Sales Dashboard** built using **Looker Studio** to track and analyze sales performance metrics across different products, categories, and regions over the course of 2024.
 
-![Sales Dashboard Screenshot](images/sales_dashboard.png)
+![Sales Dashboard Screenshot](https://github.com/RHchetan/Sales-Dashboard/blob/main/Screenshot%202025-06-14%20155741.png?raw=true)
 
 ---
 
