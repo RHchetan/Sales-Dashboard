@@ -1,6 +1,6 @@
 # 📊 Sales Performance Dashboard
 
-A dynamic and visually insightful **Sales Dashboard** built using **Looker Studio** to track and analyze sales performance metrics across different products, categories, and regions over the course of 2024.
+A dynamic and visually insightful **Sales Dashboard** built using **Looker Studio** to track and analyze sales performance metrics across different products, categories, and regions over the course.
 
 ![Sales Dashboard Screenshot](https://github.com/RHchetan/Sales-Dashboard/blob/main/Screenshot%202025-06-14%20155741.png?raw=true)
 
